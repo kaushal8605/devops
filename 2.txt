@@ -1,2 +1,2 @@
-this is demo 2.txt file 
-this is updated file
+this file for a demo purpose 
+its 2.txt file
